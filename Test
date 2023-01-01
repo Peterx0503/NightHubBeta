@@ -131,7 +131,8 @@ end)
 
 
 section2:addButton("DISCORD", function()
-print("https://discord.gg/Z7VNmq5KG2")
+print("Copy link Discord")
+setclipboard("https://discord.gg/Z7VNmq5KG2")
 end)
 
 
