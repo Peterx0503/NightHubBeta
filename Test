@@ -1,10 +1,10 @@
 
 
 -- KEY
-_G.Key = ""
+_G.Key = "NIGHT"
 
 local keys = {
-    "PETERX",
+    "NIGHT",
     ""
 }
 
@@ -19,7 +19,7 @@ for i,v in pairs(keys) do
             -- WHITELIST
             print("success")
             keyCheck = _G.Key
-            key = "PETERX"
+            key = "NIGHT"
             else
             counter = counter +1
         end
