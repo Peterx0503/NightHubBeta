@@ -113,10 +113,8 @@ game:GetService("ReplicatedStorage").Remotes.Server:FireServer(unpack(args))
 end)
 
 section2:addKeybind("Toggle Keybind", Enum.KeyCode.LeftAlt, function()
-print("Activated Keybind")
 venyx:toggle()
 end, function()
-print("Changed Keybind")
 end)
 
 
