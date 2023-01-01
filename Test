@@ -1,7 +1,7 @@
 
 
 -- KEY
-_G.Key = "PETERX"
+_G.Key = ""
 
 local keys = {
     "PETERX",
