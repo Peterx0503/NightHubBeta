@@ -87,7 +87,7 @@ spawn(function()
 	local args = {
     [1] = {
         [1] = "Rebirths",
-        [2] = 27
+        [2] = 45
     }
 }
 game:GetService("ReplicatedStorage").Remotes.Server:FireServer(unpack(args))
